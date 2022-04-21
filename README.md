@@ -21,10 +21,10 @@
 </p>
 
 <p align="left">
-  <a href="mailto:diegosudolinux@gmail.com" alt="Outook" target="_blank">
+  <a href="mailto:diegosudolinux@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <a href="https://www.linkedin.com/in/diego-oliveira-00844619b/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-oliveira-00844619b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
  
