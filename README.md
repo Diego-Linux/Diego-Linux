@@ -21,11 +21,11 @@
 </p>
 
 <p align="left">
-  <a href="mailto:diegosudolinux@gmail.com" alt="Outook">
- <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:diegosudolinux@gmail.com" alt="Outook" target="_blank">
+ <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <a href="https://www.linkedin.com/in/diego-oliveira-00844619b/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/diego-oliveira-00844619b/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
  
 </p>  
