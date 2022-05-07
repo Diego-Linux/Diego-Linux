@@ -17,7 +17,7 @@
 <br>
     
 <p align="left" style="margin-top: 20">
-  🔨 Tools: <strong>Visual Studio Code, Postman, Insomnia, PostgreSQL, MongoDB, Github.</strong>
+  🔨 Tools: <strong>Visual Studio Code, Postman, Insomnia, PostgreSQL, MongoDB, Docker, Github.</strong>
 </p>
 
 <p align="left">
