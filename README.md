@@ -6,18 +6,18 @@
 </p>
 
 <div style="display: inline_block">
-  <h4>🖥️ Knowledge in::</h4>
-  <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <h4>🖥️ Knowledge in:</h4>
+  <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
+  <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="react"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css"/>                                        
 </div>
 <br>
     
 <p align="left" style="margin-top: 20">
-  🔨 Tools: <strong>Visual Studio Code, Postman, Insomnia, PostgreSQL, MongoDB, Docker, Github.</strong>
+  Tools: <strong>Visual Studio Code, Postman, Insomnia, PostgreSQL, MongoDB, Docker, Github.</strong>
 </p>
 
 <p align="left">
@@ -30,9 +30,12 @@
  
 </p>  
 
+![Diego-Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Linux&show_icons=true&theme=radical)
+                                                                                                           
+
 
 <!--
-**Lockcrowley/Lockcrowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Diego-Linux/Diego-Linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
