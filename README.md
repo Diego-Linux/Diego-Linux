@@ -2,11 +2,11 @@
 
 <p align="left"> 
   Hey! i'm Diego. Im a <strong>Back-end Developer</strong>.<br>
-  Currently studying development in NodeJs and Typescript.
+  Currently studying development in NodeJS and Typescript.
 </p>
 
 <div style="display: inline_block">
-  <h4>🖥️ Programming languages:</h4>
+  <h4>🖥️ Knowledge in::</h4>
   <img  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
