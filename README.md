@@ -29,7 +29,5 @@
 
  
 </p>  
-
-![Diego-Linux GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Linux&show_icons=true&theme=radical)
                                                                                                            
 
