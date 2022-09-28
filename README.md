@@ -2,7 +2,18 @@
 
 <p align="left"> 
   Hey! i'm Diego. Im a <strong>Back-end Developer</strong>.<br>
-  Currently studying development in NodeJS and Typescript.
+Currently pursuing a bachelor's degree in
+Information Technology at Univesp,
+Graduate in Systems Development
+by ETEC Taboão da Serra.
+Web developer focused on NodeJS,
+ReactJS, Javascript/Typescript (Javascript in
+generally).
+Knowledge in
+Docker/Kubernetes/ElasticSearch, MongoDB,
+MySQL, PostgreSQL, Versioning
+code(git/github) and Linux systems.
+HTML/CSS/Material UI/Figma skills.
 </p>
 
 <div style="display: inline_block">
