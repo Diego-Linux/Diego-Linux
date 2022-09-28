@@ -10,6 +10,7 @@ by ETEC.
 Web developer focused on NodeJS,
 ReactJS, Javascript/Typescript (Javascript in
 generally).
+
 Knowledge in
 Docker/Kubernetes/ElasticSearch, MongoDB,
 MySQL, PostgreSQL, Versioning
