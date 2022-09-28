@@ -5,7 +5,7 @@
 Currently pursuing a bachelor's degree in
 Information Technology at Univesp,
 Graduate in Systems Development
-by ETEC Taboão da Serra.
+by ETEC.
 
 Web developer focused on NodeJS,
 ReactJS, Javascript/Typescript (Javascript in
