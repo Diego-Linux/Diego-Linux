@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> 
-  Hey! i'm Diego. Im a <strong>Back-end Developer</strong>.<br>
+  Hey! i'm Diego. Im a <strong>Web Developer</strong>.<br>
 Currently pursuing a bachelor's degree in
 Information Technology at Univesp,
 Graduate in Systems Development
